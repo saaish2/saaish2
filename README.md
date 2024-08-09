@@ -1,6 +1,9 @@
 # 💫 About Me:
-I am Saaish Gulekar, a third-year student pursuing a Bachelor's degree in Information Technology. I am passionate about exploring the ever-evolving world of technology and using it to make a positive impact on society. With a strong foundation in programming, database management, and web development, I am constantly seeking opportunities to learn and grow my skills.
+I am Saaish Gulekar, a software development professional specializing in backend development using Java. With a strong academic background in Information Technology and a commitment to staying up-to-date with industry trends, I excel in creating robust, scalable, and efficient backend solutions. My expertise lies in Java-based frameworks like Spring Boot, technology-driven solutions and AI model training.
 
+I have a proven track record of delivering high-quality results, demonstrated by my work at Scale AI, where I contributed to training and enhancing the Dolphin Genesis AI LLM. Additionally, I have successfully cracked interviews and received offers from reputable companies such as TCS, Oracle, and Media.Net during my on-campus placements.
+
+I am skilled in backend development, specifically with the Spring Boot framework. Relevant skills include RESTful API development, Hibernate, JPA, microservices architecture, and database management using SQL and NoSQL databases.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saaishgulekar) 
