@@ -9,10 +9,6 @@ I’m Saaish Gulekar, an AI Data Trainer & Annotator with a strong interest in s
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saaishgulekar) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saaish2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saaish2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
