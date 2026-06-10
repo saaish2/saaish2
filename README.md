@@ -11,7 +11,6 @@ I’m Saaish Gulekar, an AI Data Trainer & Annotator with a strong interest in s
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=saaish2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=saaish2&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saaish2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
